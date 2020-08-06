@@ -40,6 +40,13 @@ prn -s format -- --fix # with alias
 poetry run nox -s format -- --fix # without alias
 ```
 
+Run the formatter with the `--diff` flag to get a diff for each file that will be changed:
+
+```sh
+prn -s format -- --diff # with alias
+poetry run nox -s format -- --diff # without alias
+```
+
 ## Typechecks
 
 To run typechecks:
