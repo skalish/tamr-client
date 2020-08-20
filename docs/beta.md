@@ -7,6 +7,7 @@
 
   * [Attribute](beta/attribute)
   * [Auth](beta/auth)
+  * [Backup](beta/backup)
   * [Categorization](beta/categorization)
   * [Dataset](beta/dataset)
   * [Instance](beta/instance)
@@ -14,6 +15,7 @@
   * [Operation](beta/operation)
   * [Primary Key](beta/primary_key)
   * [Project](beta/project)
+  * [Restore](beta/restore)
   * [Schema Mapping](beta/schema_mapping)
   * [Transformations](beta/transformations)
   * [Response](beta/response)
